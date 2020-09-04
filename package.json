@@ -2,7 +2,7 @@
   "private": true,
   "devDependencies": {
     "gulp": "^3.9.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "rebuild-node-sass": "^1.1.0"
   },
   "dependencies": {
